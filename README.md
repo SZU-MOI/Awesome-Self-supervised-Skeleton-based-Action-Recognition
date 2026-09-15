@@ -144,7 +144,7 @@ This section presents the current accuracy and other information related to the 
 |Rethinking       | AAAI'2025          |       -         | 86.9 | 91.0 | 80.0 | 81.5 | 55.3 |
 |STARS-2stages    | arxiv'2024         |       -         | 87.1 | 90.9 | 79.9 | 80.8 | 52.7 |
 |3s-ASMa          | arxiv'2026         | Barlow Twins    | 87.3 | 91.9 | 80.1 | 81.0 | 68.9 |
-|AMR              | CVPR'2026          | MSM             | 87,4 | 92.3 | 81.1 | 81.9 | 60.3 |
+|AMR              | CVPR'2026          | MSM             | 87.4 | 92.3 | 81.1 | 81.9 | 60.3 |
 |CI-AS            | TCSVT'2026         | CL              | 87.7 | 93.0 | 79.1 | 79.8 |   -  |
 |Stronger-SCD-Net | TPAMI'2026         | CL              | 87.9 | 93.1 | 78.4 | 81.9 | 57.0 |
 |SLiM             | arxiv'2026         | MSM&CL          | 87.9 | 93.2 | 81.2 | 83.6 | 59.7 |
