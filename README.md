@@ -75,8 +75,6 @@ Following the updates from [Awesome Skeleton-based Action Recognition](https://g
 
 ❌[RMMD Neurocomputing'2024](https://www.sciencedirect.com/science/article/pii/S0925231224002662)
 
-✅[STARS arxiv'2024](https://arxiv.org/abs/2407.10935)[[code](https://github.com/TaatiTeam/STARS)]
-
 ✅[HA-CM arxiv'2024](https://arxiv.org/abs/2409.17951)[[code](https://github.com/YinxPeng/HA-CM-main)]
 
 🚧[Skeleton2vec arxiv'2024](https://arxiv.org/abs/2401.00921)[[code](https://github.com/Ruizhuo-Xu/Skeleton2vec)]
@@ -144,7 +142,7 @@ This section presents the current accuracy and other information related to the 
 |MEMC             |    -               |       -         | 86.8 | 90.4 | 79.2 | 80.5 | 56.4 |
 |PASTD            | ICASSP'2025        |       -         | 86.8 | 91.8 | 77.3 | 80.6 | 54.6 |
 |Rethinking       | AAAI'2025          |       -         | 86.9 | 91.0 | 80.0 | 81.5 | 55.3 |
-|STARS-2stages    | arxiv'2024         |       -         | 87.1 | 90.9 | 79.9 | 80.8 | 52.7 |
+|STARS            | WACV'2026          |       -         | 87.1 | 90.9 | 79.9 | 80.8 | 52.7 |
 |3s-ASMa          | arxiv'2026         | Barlow Twins    | 87.3 | 91.9 | 80.1 | 81.0 | 68.9 |
 |AMR              | CVPR'2026          | MSM             | 87.4 | 92.3 | 81.1 | 81.9 | 60.3 |
 |CI-AS            | TCSVT'2026         | CL              | 87.7 | 93.0 | 79.1 | 79.8 |   -  |
