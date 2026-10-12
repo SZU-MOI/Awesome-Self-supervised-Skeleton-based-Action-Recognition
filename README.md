@@ -5,6 +5,8 @@ Following the updates from [Awesome Skeleton-based Action Recognition](https://g
 
 **2026
 
+🚧[TranCLR CVPR'2026](https://openaccess.thecvf.com/content/CVPR2026/papers/Feng_Beyond_Binary_Contrast_Modeling_Continuous_Skeleton_Action_Spaces_with_Transitional_CVPR_2026_paper.pdf)[[code](https://github.com/Philchieh/TranCLR)]
+
 ✅[STARS WACV'2026](https://ieeexplore.ieee.org/document/11492424)[[code](https://github.com/TaatiTeam/STARS)]
 
 ❌[AMR CVPR'2026](https://openaccess.thecvf.com/content/CVPR2026/papers/Sun_Exploring_Adaptive_Masked_Reconstruction_for_Self-Supervised_Skeleton-Based_Action_Recognition_CVPR_2026_paper.pdf)
