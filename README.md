@@ -5,6 +5,8 @@ Following the updates from [Awesome Skeleton-based Action Recognition](https://g
 
 **2026
 
+❌[S2I arxiv'2026](https://arxiv.org/abs/2603.05963)
+
 🚧[TranCLR CVPR'2026](https://openaccess.thecvf.com/content/CVPR2026/papers/Feng_Beyond_Binary_Contrast_Modeling_Continuous_Skeleton_Action_Spaces_with_Transitional_CVPR_2026_paper.pdf)[[code](https://github.com/Philchieh/TranCLR)]
 
 ✅[STARS WACV'2026](https://ieeexplore.ieee.org/document/11492424)[[code](https://github.com/TaatiTeam/STARS)]
@@ -19,7 +21,7 @@ Following the updates from [Awesome Skeleton-based Action Recognition](https://g
 
 🚧[CI-AS TCSVT'2026](https://ieeexplore.ieee.org/abstract/document/11422982) [[code](https://github.com/aoyuleo/CI-AS)]
 
-✅[SLiM arxiv'2026](https://arxiv.org/abs/2603.10648) [[code](https://github.com/KAIST-VICLab/SLiM)]
+✅[SLiM NeurlIPS'2026](https://arxiv.org/abs/2603.10648) [[code](https://github.com/KAIST-VICLab/SLiM)]
 
 ❌[Variational CL arxiv'2026](https://arxiv.org/abs/2601.07666)
 
@@ -149,7 +151,7 @@ This section presents the current accuracy and other information related to the 
 |AMR              | CVPR'2026          | MSM             | 87.4 | 92.3 | 81.1 | 81.9 | 60.3 |
 |CI-AS            | TCSVT'2026         | CL              | 87.7 | 93.0 | 79.1 | 79.8 |   -  |
 |Stronger-SCD-Net | TPAMI'2026         | CL              | 87.9 | 93.1 | 78.4 | 81.9 | 57.0 |
-|SLiM             | arxiv'2026         | MSM&CL          | 87.9 | 93.2 | 81.2 | 83.6 | 59.7 |
+|SLiM             | NeurlIPS'2026      | MSM&CL          | 87.9 | 93.2 | 81.2 | 83.6 | 59.7 |
 | | |     -     | | | | | |
 | | |     -     | | | | | |
 | | |     -     | | | | | |
