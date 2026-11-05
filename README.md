@@ -11,7 +11,7 @@ Following the updates from [Awesome Skeleton-based Action Recognition](https://g
 
 ✅[STARS WACV'2026](https://ieeexplore.ieee.org/document/11492424)[[code](https://github.com/TaatiTeam/STARS)]
 
-❌[AMR CVPR'2026](https://openaccess.thecvf.com/content/CVPR2026/papers/Sun_Exploring_Adaptive_Masked_Reconstruction_for_Self-Supervised_Skeleton-Based_Action_Recognition_CVPR_2026_paper.pdf)
+✅[AMR CVPR'2026](https://openaccess.thecvf.com/content/CVPR2026/papers/Sun_Exploring_Adaptive_Masked_Reconstruction_for_Self-Supervised_Skeleton-Based_Action_Recognition_CVPR_2026_paper.pdf)[[code](https://github.com/AshenOne1005/AMR)]
 
 🚧[Stronger-SCD-Net TPAMI'2026](https://ieeexplore.ieee.org/abstract/document/11647328) [[code](https://github.com/cong-wu/SCD-Net)]
 
