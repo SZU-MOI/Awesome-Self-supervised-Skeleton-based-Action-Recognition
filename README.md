@@ -4,6 +4,7 @@ Following the updates from [Awesome Skeleton-based Action Recognition](https://g
 (✅ indicates the presence of code, ❌ indicates no code available temporarily and 🚧 indicates an empty code repository. )
 
 **2026
+🚧[Path-JEPA ECCV'2026](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/5207.pdf) [[code](https://github.com/singh17ashu/Path-JEPA)]
 
 ❌[S2I arxiv'2026](https://arxiv.org/abs/2603.05963)
 
